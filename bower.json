@@ -1,0 +1,20 @@
+{
+  "name": "my firts bootstrap proyect",
+  "homepage": "'https://github.com/octaviolara/ProjectOne'",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "octavio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+  "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+}
+}
